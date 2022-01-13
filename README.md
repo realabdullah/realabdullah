@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realabdullah&count_private=true&show_icons=true&theme=outrun" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realabdullah&theme=outrun" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=realabdullah&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realabdullah&layout=compact" />
 </p>
