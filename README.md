@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Abdullahi here! )](https://git.io/typing-svg)
-
 ### About
 
 - I'm frontend devloper.
