@@ -18,6 +18,8 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending email from your Nuxt 3 app with Mailgun](https://realabdullah.hashnode.dev/sending-email-from-your-nuxt-3-app-with-mailgun)
+- [Building a simple rating component with Vue 3](https://realabdullah.hashnode.dev/building-a-simple-rating-component-with-vue-3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
