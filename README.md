@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullahi Odesanmi</h1>
 <h3 align="center">A frontend developer with a strong passion for creating good web experiences.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realabdullah" alt="realabdullah" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_realabd" target="blank"><img src="https://img.shields.io/twitter/follow/_realabd?logo=twitter&style=for-the-badge" alt="_realabd" /></a> </p>
 
 - 🔭 I’m currently working on [Taskgid](https://www.taskgid.xyz)
@@ -16,10 +14,6 @@
 - 📫 How to reach me **abdulodesanmi@gmail.com**
 
 - ⚡ Fun fact **I smile alot 😅 you hardly find me angry.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
